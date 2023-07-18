@@ -1,0 +1,24 @@
+#titulo1 {
+    text-shadow: 5px 5px 5px #aaa;
+    /*text-shadow: 2px -1px -0px #aaa; */
+}
+
+#titulo2 {
+    text-shadow: -5px -5px 5px #aaa;
+}
+
+#titulo3 {
+    text-shadow: 3px 3px 5px #f00,
+                 6px 6px 5px #0f0,
+                 9px 9px 5px #00f;
+}
+h1{
+    font-size: 50px;/*para colocar el tamaño*/
+}
+body{
+    background-color: white;
+    margin: 20px;/*para centrar el texto o imagen*/
+}
+#titulo1{
+    font-family: 'Roboto', sans-serif;
+}
